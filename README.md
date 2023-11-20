@@ -1,5 +1,4 @@
 # Xin Liu 
-# 刘昕
 PhD student
 
 Institute for Interdisciplinary Information Sciences
