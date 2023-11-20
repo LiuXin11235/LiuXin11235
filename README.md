@@ -1,4 +1,12 @@
-### Hi there 👋
+# Xin Liu 
+# 刘昕
+PhD student
+
+Institute for Interdisciplinary Information Sciences
+
+Tsinghua University
+
+liuxin19@mails.tsinghua.edu.cn
 
 <!--
 **LiuXin11235/LiuXin11235** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +22,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+## Education
+- B
