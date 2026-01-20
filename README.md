@@ -1,11 +1,19 @@
-# Xin Liu 
-PhD 
+# Xin Liu
 
-Institute for Interdisciplinary Information Sciences
+Researcher at Supcon.
 
-Tsinghua University
+## Experience
 
-greenliuxin@163.com
+- Researcher, Supcon (Jul 2025 - Present)
+
+## Education
+
+- PhD, Institute for Interdisciplinary Information Sciences, Tsinghua University (Aug 2019 - Jun 2025)
+
+## Contact
+
+- Email: greenliuxin@163.com
+
 
 <!--
 **LiuXin11235/LiuXin11235** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
