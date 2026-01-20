@@ -1,11 +1,11 @@
 # Xin Liu 
-PhD student
+PhD 
 
 Institute for Interdisciplinary Information Sciences
 
 Tsinghua University
 
-liuxin19@mails.tsinghua.edu.cn
+greenliuxin@163.com
 
 <!--
 **LiuXin11235/LiuXin11235** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
