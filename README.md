@@ -12,7 +12,7 @@ Researcher at [Supcon](https://global.supcon.com/).
 
 ### Contact
 
-- Email: greenliuxin@163.com
+- Email: liuxin4@supcon.com
 
 
 <!--
