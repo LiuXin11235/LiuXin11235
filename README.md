@@ -1,6 +1,6 @@
 # Xin Liu
 
-Researcher at Supcon.
+Researcher at [Supcon](https://global.supcon.com/).
 
 ### Experience
 
