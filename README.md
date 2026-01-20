@@ -2,15 +2,15 @@
 
 Researcher at Supcon.
 
-## Experience
+### Experience
 
 - Researcher, Supcon (Jul 2025 - Present)
 
-## Education
+### Education
 
 - PhD, Institute for Interdisciplinary Information Sciences, Tsinghua University (Aug 2019 - Jun 2025)
 
-## Contact
+### Contact
 
 - Email: greenliuxin@163.com
 
