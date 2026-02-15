@@ -2,7 +2,9 @@
 
 Researcher at [Supcon](https://global.supcon.com/).
 
-[Goole scholar](https://scholar.google.com/citations?user=AWSswSgAAAAJ&hl=en)
+### Publications
+
+See [Goole scholar](https://scholar.google.com/citations?user=AWSswSgAAAAJ&hl=en)
 
 ### Experience
 
