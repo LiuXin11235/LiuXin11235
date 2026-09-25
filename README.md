@@ -1,6 +1,5 @@
 # Xin Liu
 
-Researcher at [Supcon](https://global.supcon.com/).
 
 ### Publications
 
@@ -8,7 +7,7 @@ See [Goole scholar](https://scholar.google.com/citations?user=AWSswSgAAAAJ&hl=en
 
 ### Experience
 
-- Researcher, Supcon (Jul 2025 - Present)
+- Researcher at [Supcon](https://global.supcon.com/) (Jul 2025 - Sep 2026)
 
 ### Education
 
