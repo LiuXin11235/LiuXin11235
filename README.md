@@ -5,9 +5,6 @@
 
 See [Goole scholar](https://scholar.google.com/citations?user=AWSswSgAAAAJ&hl=en)
 
-### Experience
-
-- Researcher at [Supcon](https://global.supcon.com/) (Jul 2025 - Sep 2026)
 
 ### Education
 
